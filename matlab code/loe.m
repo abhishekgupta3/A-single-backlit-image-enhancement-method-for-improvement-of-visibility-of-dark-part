@@ -25,4 +25,3 @@ end
 LOE = sum(RD(:))/(Md*Nd);
 
 end
-
